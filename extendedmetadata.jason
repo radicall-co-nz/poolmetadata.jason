@@ -1,7 +1,7 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://github.com/radicall-co-nz/poolmetadata.jason/blob/main/HOSKS-CLIPS500x500.png?raw=true",
-        "url_png_logo": "https://github.com/radicall-co-nz/poolmetadata.jason/blob/main/HOSKS-CLIPS500x500.png?raw=true",
+        "url_png_icon_64x64": "https://github.com/radicall-co-nz/poolmetadata.jason/blob/main/HOSKS-CLIPS64x64.png?raw=true",
+        "url_png_logo": "https://github.com/radicall-co-nz/poolmetadata.jason/blob/main/HOSKS-CLIPS64x64.png?raw=true",
         "location": "Auckland, New Zealand",
         "social": {
             "twitter_handle": "HOSKsClips",
